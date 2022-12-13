@@ -1,0 +1,13 @@
+Date of admission: 13/12/2022 15:52:25
+Name : m
+Address : a
+Contact Number : 8
+Age : 2
+Sex : m
+Blood Group : 0
+Any Major disease suffered earlier : c
+Patient ID : 2
+
+********************************************************************
+
+

@@ -1,0 +1,30 @@
+Date of admission: 13/12/2022 15:57:51
+Name : mohit
+Address : agra
+Contact Number : 6544
+Age : 20
+Sex : m\
+Blood Group : o+
+Any Major disease suffered earlier : cold
+Patient ID : 1
+
+********************************************************************
+
+
+Description of the day:13/12/2022 18:07:35
+Doctor appointed: dr. rahul
+Symptoms : cold,fever
+Diagnosis : dengue
+Medicines : paracetamol, dolo
+Addmission Required? : yes
+*************************************************************************
+
+Total Bill:6000.0
+Description of the day:13/12/2022 18:11:55
+Doctor appointed: 
+Symptoms : 
+Diagnosis : 
+Medicines : 
+Addmission Required? : 
+*************************************************************************
+
